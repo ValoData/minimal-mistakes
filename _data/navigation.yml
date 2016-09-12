@@ -5,3 +5,12 @@ main:
 
   - title: "Sample Navigation Link 2"
     url: /
+    
+  - title: "About"
+    url: /_pages/about.html
+    
+  - title: "Blog Posts"
+    url: /
+  
+  -- title: "Events"
+    url: /
