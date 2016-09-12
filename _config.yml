@@ -107,6 +107,7 @@ author:
   youtube          :
 
 
+
 # Reading Files
 include:
   - .htaccess
@@ -213,7 +214,7 @@ tag_archive:
 #   enabled:
 #     - categories
 #     - tags
-#   layouts:
+layouts: splash
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
 #   permalinks:
