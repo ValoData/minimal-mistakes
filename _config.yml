@@ -46,6 +46,9 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+layouts: splash
+header:
+  image: umplash.jpg
 
 # SEO Related
 google_site_verification :
@@ -214,9 +217,6 @@ tag_archive:
 #   enabled:
 #     - categories
 #     - tags
-layouts: splash
-header:
-  image: umplash.jpg
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
 #   permalinks:
