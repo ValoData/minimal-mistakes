@@ -1,19 +1,16 @@
 # main links links
 main:
-  - title: "Sample Navigation Link"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+  - title: "Quick-Start Guide"
+    url: /docs/quick-start-guide/
 
-  - title: "Sample Navigation Link 2"
-    url: /
-    
   - title: "About"
-    url: /_pages/about.html
-    
-  - title: "Blog Posts"
-    url: /
-  
-  -- title: "Events"
-    url: /
-    
-  - title: "Categories"
-    url: /categories/
+    url: /about/
+
+  - title: "Sample Posts"
+    url: /year-archive/
+
+  - title: "Sample Collections"
+    url: /collection-archive/
+
+  - title: "Terms &amp; Privacy Policy"
+    url: /terms/
