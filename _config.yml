@@ -215,6 +215,8 @@ tag_archive:
 #     - categories
 #     - tags
 layouts: splash
+header: 
+image: https://mmistakes.github.io/minimal-mistakes/images/unsplash-image-4.jpg
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
 #   permalinks:
