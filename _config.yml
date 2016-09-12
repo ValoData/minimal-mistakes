@@ -216,10 +216,7 @@ tag_archive:
 #     - tags
 layouts: splash
 header:
-  image: https://mmistakes.github.io/minimal-mistakes/images/unsplash-image-4.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  cta_label: "More Info"
-  cta_url: "https://unsplash.com"
+  image: unsplash.jpg
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
 #   permalinks:
