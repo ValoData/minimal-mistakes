@@ -216,7 +216,7 @@ tag_archive:
 #     - tags
 layouts: splash
 header:
-  image: unsplash.jpg
+  image: umplash.jpg
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
 #   permalinks:
